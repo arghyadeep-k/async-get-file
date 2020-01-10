@@ -1,5 +1,5 @@
 {
-  "name": "async-download-file",
+  "name": "async-get-file",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arghyadeep-k/async-download-file.git"
+    "url": "git+https://github.com/arghyadeep-k/async-get-file.git"
   },
   "keywords": [
     "async",
     "download",
     "file",
+    "get",
     "promise"
   ],
   "author": "Arghyadeep Kundu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arghyadeep-k/async-download-file/issues"
+    "url": "https://github.com/arghyadeep-k/async-get-file/issues"
   },
-  "homepage": "https://github.com/arghyadeep-k/async-download-file#readme",
+  "homepage": "https://github.com/arghyadeep-k/async-get-file#readme",
   "dependencies": {
     "download-file": "^0.1.5",
     "promise": "^8.0.3"
