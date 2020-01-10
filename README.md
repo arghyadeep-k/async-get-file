@@ -64,4 +64,4 @@ get(url, [options])
 
 ## License
 
-google-sheets-logger is published under the MIT license. For more information, see the accompanying LICENSE file.
+async-get-file is published under the MIT license. For more information, see the accompanying LICENSE file.
