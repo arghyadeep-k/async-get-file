@@ -1,9 +1,8 @@
-# Download files with Promise (node.js)
+# async-get-file - Download files with Promise (node.js)
 
 [![npm version](https://badge.fury.io/js/async-get-file.svg)](https://badge.fury.io/js/async-get-file)
 
 This package is a wrapper around the [download-file](https://www.npmjs.com/package/download-file) package replacing callback functions with functions that return a Promise.
-to make it return a promise.
 
 Basically it lets you write code like this
 ```javascript
