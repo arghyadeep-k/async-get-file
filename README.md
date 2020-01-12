@@ -1,4 +1,4 @@
-# async-get-file : Download files with Promise (node.js)
+# async-get-file : Download files with Promise (Node.js)
 
 ![npm](https://img.shields.io/npm/v/async-get-file) ![npm](https://img.shields.io/npm/dt/async-get-file) ![NPM](https://img.shields.io/npm/l/async-get-file?color=blue)
 
