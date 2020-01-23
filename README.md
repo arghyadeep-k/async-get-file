@@ -74,7 +74,7 @@ get(url, [options])
 
 
 ## References
-
+- <https://www.npmjs.com/package/download-file>
 - <https://stackoverflow.com/a/38428075/9647762>
 
 ## License
