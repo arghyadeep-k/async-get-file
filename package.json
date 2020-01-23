@@ -1,7 +1,7 @@
 {
   "name": "async-get-file",
   "version": "1.0.0",
-  "description": "",
+  "description": "A wrapper around download-file package to make it return a promise.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
