@@ -39,7 +39,7 @@ async function main(){
 main();
 ```
 
-OR
+Or
 
 ```javascript
 const Promise = require("promise");
