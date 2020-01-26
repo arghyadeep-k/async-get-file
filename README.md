@@ -25,7 +25,7 @@ get(url, options, err => {
 
 ```javascript
 const async = require("async");
-const get = require("async-get-file);
+const get = require("async-get-file");
 
 async function main(){
   var url = "http://i.imgur.com/G9bDaPH.jpg";
@@ -43,7 +43,7 @@ Or
 
 ```javascript
 const Promise = require("promise");
-const get = require("async-get-file);
+const get = require("async-get-file");
 
 var url = "http://i.imgur.com/G9bDaPH.jpg";
 var options = {
