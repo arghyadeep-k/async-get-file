@@ -90,8 +90,6 @@ get(url, [options])
   - timeout integer of how long in ms to wait while downloading (default: 20000)
 
 
----
-
 
 ## References
 - <https://www.npmjs.com/package/download-file>
