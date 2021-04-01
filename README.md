@@ -9,6 +9,7 @@
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/async-get-file)
 ![npm](https://img.shields.io/npm/dt/async-get-file) 
 ![NPM](https://img.shields.io/npm/l/async-get-file?color=blue)
+[![Ko-Fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/arghyadeep)
 
 This package is a wrapper around the [download-file](https://www.npmjs.com/package/download-file) package replacing callback functions with functions that return a Promise.
 
@@ -109,3 +110,5 @@ async-get-file is published under the MIT license. For more information, see the
 If you find this package useful, please [star](https://github.com/arghyadeep-k/google-sheets-logger) the project on Github. 
 
 And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that would be awesome. :)
+
+<a href='https://ko-fi.com/arghyadeep' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
