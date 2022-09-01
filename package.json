@@ -25,6 +25,6 @@
   "homepage": "https://github.com/arghyadeep-k/async-get-file#readme",
   "dependencies": {
     "download-file": "^0.1.5",
-    "promise": "^8.1.0"
+    "promise": "^8.2.0"
   }
 }
